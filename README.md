@@ -1,24 +1,8 @@
-# click_counter
+# MiFoto6J
 
-A new Flutter project created with https://flutlab.io
+Alondra Daniela Méndez Méndez 6J 
 
-## Getting Started
+## Resultado:
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/99424911/171217029-f0d656c5-9439-4e2d-8de3-dd1b9d56efc0.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Discover a marketplace of ready-to-use Flutter projects https://flutlab.io/widgetbay
-- Join the discussion and conversation on https://flutlab.io/residents
-
-If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
